@@ -1,0 +1,10 @@
+﻿  Func.cpp
+C:\Users\yumk0\OneDrive\문서\카카오톡 받은 파일\과제\코로나 대구 확진자현황\PP\Project1\Func.cpp(47,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\yumk0\OneDrive\문서\카카오톡 받은 파일\과제\코로나 대구 확진자현황\PP\Project1\Func.cpp(47,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\yumk0\OneDrive\문서\카카오톡 받은 파일\과제\코로나 대구 확진자현황\PP\Project1\Func.cpp(80,20): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\yumk0\OneDrive\문서\카카오톡 받은 파일\과제\코로나 대구 확진자현황\PP\Project1\Func.cpp(80,20): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\yumk0\OneDrive\문서\카카오톡 받은 파일\과제\코로나 대구 확진자현황\PP\Project1\Func.cpp(102,20): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\yumk0\OneDrive\문서\카카오톡 받은 파일\과제\코로나 대구 확진자현황\PP\Project1\Func.cpp(102,20): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+  Main.cpp
+  코드를 생성하고 있습니다...
+  Project1.vcxproj -> C:\Users\yumk0\OneDrive\문서\카카오톡 받은 파일\과제\코로나 대구 확진자현황\PP\x64\Debug\Project1.exe
